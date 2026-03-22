@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Output & temp files
+output/
+/tmp/
+
+# API keys
+.env
+*.env
+
+# macOS
+.DS_Store
